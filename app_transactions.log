@@ -1,0 +1,8 @@
+2026-11-11 10:01:12 INFO  [TXN-9001] Payment processed successfully | User: U102 | Latency: 120ms | Status: 200
+2026-11-11 10:01:15 ERROR [TXN-9002] Payment Gateway Timeout | User: U405 | Latency: 5002ms | Status: 504
+2026-11-11 10:01:18 INFO  [TXN-9003] Payment processed successfully | User: U109 | Latency: 95ms | Status: 200
+2026-11-11 10:01:22 ERROR [TXN-9004] Database Connection Pool Exhausted | User: U881 | Latency: 3100ms | Status: 500
+2026-11-11 10:01:25 WARN  [TXN-9005] High latency detected on UPI endpoint | User: U332 | Latency: 2400ms | Status: 200
+2026-11-11 10:01:30 ERROR [TXN-9006] Database Connection Pool Exhausted | User: U774 | Latency: 3250ms | Status: 500
+2026-11-11 10:01:33 ERROR [TXN-9007] Invalid Auth Token | User: U210 | Latency: 45ms | Status: 401
+2026-11-11 10:01:40 ERROR [TXN-9008] Payment Gateway Timeout | User: U912 | Latency: 5010ms | Status: 504
